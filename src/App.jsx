@@ -3,7 +3,7 @@ import Sidebar from "./Sidebar";
 import Dashboard from "./Dashboard";
 import AddEmployee from "./AddEmployee";
 
-const API_URL = "https://hrms-backend-2-x4h9.onrender.com";
+const API_URL = "https://hrms-backend-3-w3tn.onrender.com";
 
 function App() {
   const [activePage, setActivePage] = useState("dashboard");
